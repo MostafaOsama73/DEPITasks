@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{A2B35632-646F-44FF-A1AD-DE7E41D8122D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DEBITasksDay1</RootNamespace>
-    <AssemblyName>DEBITasksDay1</AssemblyName>
+    <RootNamespace>DEPITasksDay1</RootNamespace>
+    <AssemblyName>DEPITasksDay1</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
