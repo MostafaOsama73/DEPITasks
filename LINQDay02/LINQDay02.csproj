@@ -50,5 +50,8 @@
     <None Include="App.config" />
     <Compile Include="ListGenerators.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Day01 LinkedIn Post.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
